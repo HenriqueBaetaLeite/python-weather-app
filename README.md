@@ -4,14 +4,21 @@ A little app using Python, Tkinter and others libs.
 
 <!-- ![Alt ou título da imagem](URL da imagem) -->
 
-Libs that I use in this project:
+<p>Libs that I use in this project:
+<br>
 json
+<br>
 requests
+<br>
 urllib
+<br>
 datetime
+<br>
 webbrowser
+<br>
 
 Each one has a specific action
+</p>
 
 Contact me:
 
