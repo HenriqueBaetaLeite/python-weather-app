@@ -23,10 +23,10 @@ Each one has a specific action
 Contact me:
 
 <p>
-<a align="left" href="https://www.linkedin.com/in/henrique-ba%C3%AAta-leite-785a4b15a/" target="_blank"><img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg" alt="html5" width="48px" height="48px"/></a>
+<a align="left" href="https://www.linkedin.com/in/henrique-ba%C3%AAta-leite-785a4b15a/" target="_blank"><img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg" alt="html5" width="30px" height="30px"/></a>
 
 <a href="https://github.com/HenriqueBaetaLeite" target="_blank">
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="48px" height="48px">
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="30px" height="30px">
 </a>
 
 </p>
