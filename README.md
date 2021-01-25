@@ -4,7 +4,7 @@ A little app using Python, Tkinter and others libs.
 
 <!-- ![Alt ou título da imagem](URL da imagem) -->
 
-<p>Libs that I use in this project:
+<p>Modules that I used in this project:
 <br>
 json
 <br>
